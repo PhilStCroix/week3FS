@@ -1,0 +1,19 @@
+{
+  "name": "week3fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilStCroix/week3FS.git"
+  },
+  "author": "Phil StCroix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilStCroix/week3FS/issues"
+  },
+  "homepage": "https://github.com/PhilStCroix/week3FS#readme"
+}
